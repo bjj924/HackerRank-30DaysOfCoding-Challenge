@@ -1,0 +1,11 @@
+C:\Users\Braian\Desktop\Git Repos\HackerRank-30DaysOfCoding-Challenge\30DaysOfCoding\30DaysOfCoding\bin\Debug\netcoreapp3.0\30DaysOfCoding.exe
+C:\Users\Braian\Desktop\Git Repos\HackerRank-30DaysOfCoding-Challenge\30DaysOfCoding\30DaysOfCoding\bin\Debug\netcoreapp3.0\30DaysOfCoding.deps.json
+C:\Users\Braian\Desktop\Git Repos\HackerRank-30DaysOfCoding-Challenge\30DaysOfCoding\30DaysOfCoding\bin\Debug\netcoreapp3.0\30DaysOfCoding.runtimeconfig.json
+C:\Users\Braian\Desktop\Git Repos\HackerRank-30DaysOfCoding-Challenge\30DaysOfCoding\30DaysOfCoding\bin\Debug\netcoreapp3.0\30DaysOfCoding.runtimeconfig.dev.json
+C:\Users\Braian\Desktop\Git Repos\HackerRank-30DaysOfCoding-Challenge\30DaysOfCoding\30DaysOfCoding\bin\Debug\netcoreapp3.0\30DaysOfCoding.dll
+C:\Users\Braian\Desktop\Git Repos\HackerRank-30DaysOfCoding-Challenge\30DaysOfCoding\30DaysOfCoding\bin\Debug\netcoreapp3.0\30DaysOfCoding.pdb
+C:\Users\Braian\Desktop\Git Repos\HackerRank-30DaysOfCoding-Challenge\30DaysOfCoding\30DaysOfCoding\obj\Debug\netcoreapp3.0\30DaysOfCoding.csprojAssemblyReference.cache
+C:\Users\Braian\Desktop\Git Repos\HackerRank-30DaysOfCoding-Challenge\30DaysOfCoding\30DaysOfCoding\obj\Debug\netcoreapp3.0\30DaysOfCoding.AssemblyInfoInputs.cache
+C:\Users\Braian\Desktop\Git Repos\HackerRank-30DaysOfCoding-Challenge\30DaysOfCoding\30DaysOfCoding\obj\Debug\netcoreapp3.0\30DaysOfCoding.AssemblyInfo.cs
+C:\Users\Braian\Desktop\Git Repos\HackerRank-30DaysOfCoding-Challenge\30DaysOfCoding\30DaysOfCoding\obj\Debug\netcoreapp3.0\30DaysOfCoding.dll
+C:\Users\Braian\Desktop\Git Repos\HackerRank-30DaysOfCoding-Challenge\30DaysOfCoding\30DaysOfCoding\obj\Debug\netcoreapp3.0\30DaysOfCoding.pdb
