@@ -1,4 +1,5 @@
 ﻿using _30DaysOfCoding.Days.Day0;
+using _30DaysOfCoding.Days.Day1;
 using System;
 
 namespace _30DaysOfCoding
@@ -31,6 +32,9 @@ namespace _30DaysOfCoding
             {
                 case 0:
                     Day0.CallGreet();
+                    break;
+                case 1:
+                    Day1.ReturnSumByType();
                     break;
                 default:
                     Console.WriteLine("Coming soon...");
