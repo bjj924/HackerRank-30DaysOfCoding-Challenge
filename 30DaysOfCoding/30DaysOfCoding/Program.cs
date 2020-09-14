@@ -1,5 +1,6 @@
 ﻿using _30DaysOfCoding.Days.Day0;
 using _30DaysOfCoding.Days.Day1;
+using _30DaysOfCoding.Days.Day2;
 using System;
 
 namespace _30DaysOfCoding
@@ -35,6 +36,9 @@ namespace _30DaysOfCoding
                     break;
                 case 1:
                     Day1.ReturnSumByType();
+                    break;
+                case 2:
+                    Day2.InputValues();
                     break;
                 default:
                     Console.WriteLine("Coming soon...");
