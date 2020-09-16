@@ -1,6 +1,7 @@
 ﻿using _30DaysOfCoding.Days.Day0;
 using _30DaysOfCoding.Days.Day1;
 using _30DaysOfCoding.Days.Day2;
+using _30DaysOfCoding.Days.Day3;
 using System;
 
 namespace _30DaysOfCoding
@@ -39,6 +40,9 @@ namespace _30DaysOfCoding
                     break;
                 case 2:
                     Day2.InputValues();
+                    break;
+                case 3:
+                    Day3.ConditionalStaments();
                     break;
                 default:
                     Console.WriteLine("Coming soon...");
