@@ -3,6 +3,7 @@ using _30DaysOfCoding.Days.Day1;
 using _30DaysOfCoding.Days.Day2;
 using _30DaysOfCoding.Days.Day3;
 using _30DaysOfCoding.Days.Day4;
+using _30DaysOfCoding.Days.Day5;
 using System;
 
 namespace _30DaysOfCoding
@@ -27,6 +28,9 @@ namespace _30DaysOfCoding
                     break;
                 case 4:
                     Day4.PersonAge();
+                    break;
+                case 5:
+                    Day5.MultiplicationTable();
                     break;
                 default:
                     Console.WriteLine("Coming soon...");
