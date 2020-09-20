@@ -6,6 +6,7 @@ using _30DaysOfCoding.Days.Day4;
 using _30DaysOfCoding.Days.Day5;
 using _30DaysOfCoding.Days.Day6;
 using _30DaysOfCoding.Days.Day7;
+using _30DaysOfCoding.Days.Day8;
 using System;
 
 namespace _30DaysOfCoding
@@ -39,6 +40,9 @@ namespace _30DaysOfCoding
                     break;
                 case 7:
                     Day7.ArrayNumber();
+                    break;
+                case 8:
+                    Day8.PhoneDirectory();
                     break;
                 default:
                     Console.WriteLine("Coming soon...");
