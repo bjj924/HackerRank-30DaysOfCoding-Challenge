@@ -5,6 +5,7 @@ using _30DaysOfCoding.Days.Day3;
 using _30DaysOfCoding.Days.Day4;
 using _30DaysOfCoding.Days.Day5;
 using _30DaysOfCoding.Days.Day6;
+using _30DaysOfCoding.Days.Day7;
 using System;
 
 namespace _30DaysOfCoding
@@ -35,6 +36,9 @@ namespace _30DaysOfCoding
                     break;
                 case 6:
                     Day6.Review();
+                    break;
+                case 7:
+                    Day7.ArrayNumber();
                     break;
                 default:
                     Console.WriteLine("Coming soon...");
