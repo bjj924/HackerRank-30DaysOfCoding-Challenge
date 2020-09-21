@@ -7,6 +7,7 @@ using _30DaysOfCoding.Days.Day5;
 using _30DaysOfCoding.Days.Day6;
 using _30DaysOfCoding.Days.Day7;
 using _30DaysOfCoding.Days.Day8;
+using _30DaysOfCoding.Days.Day9;
 using System;
 
 namespace _30DaysOfCoding
@@ -43,6 +44,9 @@ namespace _30DaysOfCoding
                     break;
                 case 8:
                     Day8.PhoneDirectory();
+                    break;
+                case 9:
+                    Day9.FactorialNumber();
                     break;
                 default:
                     Console.WriteLine("Coming soon...");
