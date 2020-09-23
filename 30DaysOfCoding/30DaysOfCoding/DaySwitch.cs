@@ -1,6 +1,7 @@
 ﻿using _30DaysOfCoding.Days.Day0;
 using _30DaysOfCoding.Days.Day1;
 using _30DaysOfCoding.Days.Day10;
+using _30DaysOfCoding.Days.Day11;
 using _30DaysOfCoding.Days.Day2;
 using _30DaysOfCoding.Days.Day3;
 using _30DaysOfCoding.Days.Day4;
@@ -51,6 +52,9 @@ namespace _30DaysOfCoding
                     break;
                 case 10:
                     Day10.ConvertNumber();
+                    break;
+                case 11:
+                    Day11.HourGlass2DArray();
                     break;
                 default:
                     Console.WriteLine("Coming soon...");
