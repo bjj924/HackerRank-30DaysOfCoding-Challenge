@@ -1,4 +1,5 @@
-﻿using _30DaysOfCoding.Days.Day0;
+﻿using _30DaysOfCoding.Days.Day_12;
+using _30DaysOfCoding.Days.Day0;
 using _30DaysOfCoding.Days.Day1;
 using _30DaysOfCoding.Days.Day10;
 using _30DaysOfCoding.Days.Day11;
@@ -55,6 +56,9 @@ namespace _30DaysOfCoding
                     break;
                 case 11:
                     Day11.HourGlass2DArray();
+                    break;
+                case 12:
+                    Day12.InharenceExercise();
                     break;
                 default:
                     Console.WriteLine("Coming soon...");
