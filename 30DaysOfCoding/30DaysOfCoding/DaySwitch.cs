@@ -1,4 +1,5 @@
 ﻿using _30DaysOfCoding.Days.Day_12;
+using _30DaysOfCoding.Days.Day_13;
 using _30DaysOfCoding.Days.Day0;
 using _30DaysOfCoding.Days.Day1;
 using _30DaysOfCoding.Days.Day10;
@@ -59,6 +60,9 @@ namespace _30DaysOfCoding
                     break;
                 case 12:
                     Day12.InharenceExercise();
+                    break;
+                case 13:
+                    Day13.AbstractClassExercise();
                     break;
                 default:
                     Console.WriteLine("Coming soon...");
