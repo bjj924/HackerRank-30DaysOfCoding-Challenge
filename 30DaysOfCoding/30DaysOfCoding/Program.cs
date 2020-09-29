@@ -18,7 +18,7 @@ namespace _30DaysOfCoding
 
                 DaySwitch.ProcessInputDay(dayValue);
 
-                Console.WriteLine("\nIf you want to check another exercise enter the day: ");
+                Console.WriteLine("\nIf you want to check another exercise enter the day or enter 'exit' to quit: ");
             }
 
             Console.ReadKey();

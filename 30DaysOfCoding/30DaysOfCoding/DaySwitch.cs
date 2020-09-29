@@ -1,5 +1,7 @@
 ﻿using _30DaysOfCoding.Days.Day_12;
 using _30DaysOfCoding.Days.Day_13;
+using _30DaysOfCoding.Days.Day_14;
+using _30DaysOfCoding.Days.Day_15;
 using _30DaysOfCoding.Days.Day0;
 using _30DaysOfCoding.Days.Day1;
 using _30DaysOfCoding.Days.Day10;
@@ -62,6 +64,18 @@ namespace _30DaysOfCoding
                     Day12.InharenceExercise();
                     break;
                 case 13:
+                    Day13.AbstractClassExercise();
+                    break;
+                case 14:
+                    Day14.AbsoluteNumber();
+                    break;
+                case 15:
+                    Day15.LinkedList();
+                    break;
+                case 16:
+                    Day13.AbstractClassExercise();
+                    break;
+                case 17:
                     Day13.AbstractClassExercise();
                     break;
                 default:
