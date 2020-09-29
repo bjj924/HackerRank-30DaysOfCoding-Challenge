@@ -2,6 +2,7 @@
 using _30DaysOfCoding.Days.Day_13;
 using _30DaysOfCoding.Days.Day_14;
 using _30DaysOfCoding.Days.Day_15;
+using _30DaysOfCoding.Days.Day_16;
 using _30DaysOfCoding.Days.Day0;
 using _30DaysOfCoding.Days.Day1;
 using _30DaysOfCoding.Days.Day10;
@@ -73,10 +74,9 @@ namespace _30DaysOfCoding
                     Day15.LinkedList();
                     break;
                 case 16:
-                    Day13.AbstractClassExercise();
+                    Day16.ExceptionStringToInt();
                     break;
                 case 17:
-                    Day13.AbstractClassExercise();
                     break;
                 default:
                     Console.WriteLine("Coming soon...");
