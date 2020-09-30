@@ -4,6 +4,7 @@ using _30DaysOfCoding.Days.Day_14;
 using _30DaysOfCoding.Days.Day_15;
 using _30DaysOfCoding.Days.Day_16;
 using _30DaysOfCoding.Days.Day_17;
+using _30DaysOfCoding.Days.Day_18;
 using _30DaysOfCoding.Days.Day0;
 using _30DaysOfCoding.Days.Day1;
 using _30DaysOfCoding.Days.Day10;
@@ -79,6 +80,9 @@ namespace _30DaysOfCoding
                     break;
                 case 17:
                     Day17.NonNegativesNumbers();
+                    break;
+                case 18:
+                    Day18.Palindrome();
                     break;
                 default:
                     Console.WriteLine("Coming soon...");
