@@ -6,11 +6,13 @@ using _30DaysOfCoding.Days.Day_16;
 using _30DaysOfCoding.Days.Day_17;
 using _30DaysOfCoding.Days.Day_18;
 using _30DaysOfCoding.Days.Day_19;
+using _30DaysOfCoding.Days.Day_21;
 using _30DaysOfCoding.Days.Day0;
 using _30DaysOfCoding.Days.Day1;
 using _30DaysOfCoding.Days.Day10;
 using _30DaysOfCoding.Days.Day11;
 using _30DaysOfCoding.Days.Day2;
+using _30DaysOfCoding.Days.Day20;
 using _30DaysOfCoding.Days.Day3;
 using _30DaysOfCoding.Days.Day4;
 using _30DaysOfCoding.Days.Day5;
@@ -87,6 +89,12 @@ namespace _30DaysOfCoding
                     break;
                 case 19:
                     Day19.InterfaceExcersise();
+                    break;
+                case 20:
+                    Day20.SortingValue();
+                    break;
+                case 21:
+                    Day21.GenericPrint();
                     break;
                 default:
                     Console.WriteLine("Coming soon...");
