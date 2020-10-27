@@ -7,6 +7,7 @@ using _30DaysOfCoding.Days.Day_17;
 using _30DaysOfCoding.Days.Day_18;
 using _30DaysOfCoding.Days.Day_19;
 using _30DaysOfCoding.Days.Day_21;
+using _30DaysOfCoding.Days.Day_22;
 using _30DaysOfCoding.Days.Day0;
 using _30DaysOfCoding.Days.Day1;
 using _30DaysOfCoding.Days.Day10;
@@ -95,6 +96,9 @@ namespace _30DaysOfCoding
                     break;
                 case 21:
                     Day21.GenericPrint();
+                    break;
+                case 22:
+                    Day22.NodeRoot();
                     break;
                 default:
                     Console.WriteLine("Coming soon...");
