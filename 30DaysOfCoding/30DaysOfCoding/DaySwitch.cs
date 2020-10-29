@@ -14,6 +14,7 @@ using _30DaysOfCoding.Days.Day10;
 using _30DaysOfCoding.Days.Day11;
 using _30DaysOfCoding.Days.Day2;
 using _30DaysOfCoding.Days.Day20;
+using _30DaysOfCoding.Days.Day23;
 using _30DaysOfCoding.Days.Day3;
 using _30DaysOfCoding.Days.Day4;
 using _30DaysOfCoding.Days.Day5;
@@ -99,6 +100,9 @@ namespace _30DaysOfCoding
                     break;
                 case 22:
                     Day22.NodeRoot();
+                    break;
+                case 23:
+                    Day23.Search();
                     break;
                 default:
                     Console.WriteLine("Coming soon...");
