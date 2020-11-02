@@ -9,6 +9,7 @@ using _30DaysOfCoding.Days.Day_19;
 using _30DaysOfCoding.Days.Day_21;
 using _30DaysOfCoding.Days.Day_22;
 using _30DaysOfCoding.Days.Day_24;
+using _30DaysOfCoding.Days.Day_25;
 using _30DaysOfCoding.Days.Day0;
 using _30DaysOfCoding.Days.Day1;
 using _30DaysOfCoding.Days.Day10;
@@ -107,6 +108,9 @@ namespace _30DaysOfCoding
                     break;
                 case 24:
                     Day24.LinkedList();
+                    break;
+                case 25:
+                    Day25.PrimeOrNot();
                     break;
                 default:
                     Console.WriteLine("Coming soon...");
