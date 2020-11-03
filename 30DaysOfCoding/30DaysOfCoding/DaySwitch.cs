@@ -10,6 +10,7 @@ using _30DaysOfCoding.Days.Day_21;
 using _30DaysOfCoding.Days.Day_22;
 using _30DaysOfCoding.Days.Day_24;
 using _30DaysOfCoding.Days.Day_25;
+using _30DaysOfCoding.Days.Day_26;
 using _30DaysOfCoding.Days.Day0;
 using _30DaysOfCoding.Days.Day1;
 using _30DaysOfCoding.Days.Day10;
@@ -111,6 +112,9 @@ namespace _30DaysOfCoding
                     break;
                 case 25:
                     Day25.PrimeOrNot();
+                    break;
+                case 26:
+                    Day26.Nested();
                     break;
                 default:
                     Console.WriteLine("Coming soon...");
