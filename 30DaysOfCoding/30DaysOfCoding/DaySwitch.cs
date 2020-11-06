@@ -12,6 +12,7 @@ using _30DaysOfCoding.Days.Day_24;
 using _30DaysOfCoding.Days.Day_25;
 using _30DaysOfCoding.Days.Day_26;
 using _30DaysOfCoding.Days.Day_28;
+using _30DaysOfCoding.Days.Day_29;
 using _30DaysOfCoding.Days.Day0;
 using _30DaysOfCoding.Days.Day1;
 using _30DaysOfCoding.Days.Day10;
@@ -119,6 +120,9 @@ namespace _30DaysOfCoding
                     break;
                 case 28:
                     Day_28.RegexTester();
+                    break;
+                case 29:
+                    Day29.BitwiseAND();
                     break;
                 default:
                     Console.WriteLine("Coming soon...");
